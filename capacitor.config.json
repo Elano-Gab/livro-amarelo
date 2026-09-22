@@ -1,0 +1,16 @@
+{
+  "appId": "br.com.livroamarelo.guia",
+  "appName": "Livro Amarelo",
+  "webDir": "www",
+  "backgroundColor": "#0A0A0A",
+  "android": {
+    "backgroundColor": "#0A0A0A"
+  },
+  "plugins": {
+    "StatusBar": {
+      "overlaysWebView": false,
+      "style": "DARK",
+      "backgroundColor": "#0A0A0A"
+    }
+  }
+}
